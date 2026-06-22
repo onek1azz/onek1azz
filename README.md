@@ -17,12 +17,17 @@
 
 :shipit: I'm a student and I study programming in various fields. 
 
+</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,js" />
   </a>
 </p>
 
+### 📊 Languages usage statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onek1azz&layout=compact&theme=radical)
+
 ### :hourglass: Github Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oneklazz&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onek1azz&theme=synthwave)](https://git.io/streak-stats)
